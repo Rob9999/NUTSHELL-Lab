@@ -4,10 +4,9 @@
 **Title:**  
 **A Modular, Multi-Expert Paradigm for Adaptive AI Agents: Toward On-Demand Knowledge Integration and Continual Learning**
 
-**Authors:**  
+**Author:**  
 **Robert Alexander Massinger**  
-Munich, Germany  
-**GPT o1**
+Munich, Germany
 
 **Abstract:**  
 The integration of domain-specific knowledge into artificial intelligence (AI) agents often requires retraining large-scale models, constraining their adaptability and efficiency. We propose a modular, multi-expert paradigm inspired by biological cognition and the "society of mind" concept. In this framework, an AI agent—such as a humanoid robot or Android—hosts a collection of specialized expert modules. Each module encodes domain-specific competencies and experiences, which can be dynamically retrieved, adapted, or combined to respond to novel tasks. By supporting modular integration of experience "packets," the agent can rapidly assemble, refine, or augment its capabilities. We illustrate how digital twin simulations accelerate the acquisition and encapsulation of new competencies. This approach supports continuous learning, efficient reuse of previously acquired experience, and seamless transfer of specialized knowledge across heterogeneous domains.
@@ -67,15 +66,29 @@ Ensuring security, trust, and provenance of shared experience packets remains a 
 The proposed modular, multi-expert paradigm represents a step toward truly adaptive AI agents capable of dynamic, on-demand knowledge integration. Inspired by biological intelligence and enabled by digital twin simulations, this approach holds the promise of more efficient continuous learning and knowledge reuse. As AI agents become increasingly integrated into daily life, their ability to seamlessly assimilate, refine, and distribute specialized knowledge will be paramount.
 
 **References:**  
-[1] J. D. Cohen et al., "The Architecture of Cognition," Trends in Cognitive Sciences, 2020.  
-[2] M. Minsky, *The Society of Mind*, Simon & Schuster, 1986.  
-[3] S. J. Pan and Q. Yang, "A Survey on Transfer Learning," IEEE TKDE, vol. 22, no. 10, 2010.  
-[4] J. Kirkpatrick et al., "Overcoming Catastrophic Forgetting in Neural Networks," PNAS, 114(13), 2017.  
-[5] S. A. Ford et al., "Modular Neural Networks: A Survey," Neural Networks, 2020.  
-[6] G. Weiss (ed.), *Multiagent Systems*, MIT Press, 1999.  
-[7] N. Shazeer et al., "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer," arXiv:1701.06538, 2017.  
-[8] M. Grieves, "Digital Twin: Manufacturing Excellence through Virtual Factory Replication," White Paper, 2015.  
-[9] "ONNX: Open Neural Network Exchange," GitHub, https://github.com/onnx/onnx.
+[1] J. A. Fodor, *The Modularity of Mind*, MIT Press, 1983. DOI: [10.7551/mitpress/4737.001.0001](https://doi.org/10.7551/mitpress/4737.001.0001)  
+[2] M. Minsky, *The Society of Mind*, Simon & Schuster, 1986. ISBN: 978-0-671-65713-0  
+[3] S. J. Pan and Q. Yang, "A Survey on Transfer Learning," *IEEE Transactions on Knowledge and Data Engineering*, vol. 22, no. 10, pp. 1345–1359, 2010. DOI: [10.1109/TKDE.2009.191](https://doi.org/10.1109/TKDE.2009.191)  
+[4] J. Kirkpatrick et al., "Overcoming Catastrophic Forgetting in Neural Networks," *Proceedings of the National Academy of Sciences*, vol. 114, no. 13, pp. 3521–3526, 2017. DOI: [10.1073/pnas.1611835114](https://doi.org/10.1073/pnas.1611835114)  
+[5] M. Amer and T. Maul, "A Review of Modularization Techniques in Artificial Neural Networks," *Artificial Intelligence Review*, vol. 52, no. 1, pp. 527–561, 2019. DOI: [10.1007/s10462-019-09706-7](https://doi.org/10.1007/s10462-019-09706-7)  
+[6] G. Weiss (ed.), *Multiagent Systems: A Modern Approach to Distributed Artificial Intelligence*, MIT Press, 1999. ISBN: 978-0-262-23203-0  
+[7] N. Shazeer et al., "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer," *International Conference on Learning Representations (ICLR)*, 2017. arXiv: [1701.06538](https://arxiv.org/abs/1701.06538)  
+[8] M. Grieves, "Digital Twin: Manufacturing Excellence through Virtual Factory Replication," White Paper, Florida Institute of Technology, 2014.  
+[9] "ONNX: Open Neural Network Exchange," GitHub, [https://github.com/onnx/onnx](https://github.com/onnx/onnx).
+
+---
+
+**Acknowledgements:**  
+Portions of this manuscript were drafted and refined with the assistance of OpenAI's GPT-o1 language model (accessed December 2024). The AI was used for brainstorming, language polishing, and structural suggestions. All scientific claims, conceptual contributions, and final editorial decisions are the sole responsibility of the author.
+
+**License:**  
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided appropriate credit is given.
+
+**Version History:**  
+| Version | Date       | Description                                      |
+|---------|------------|--------------------------------------------------|
+| 1.0     | 2024-12-20 | Initial preprint release                         |
+| 1.1     | 2026-02-08 | Corrected references, added license & acknowledgements |
 
 ---
 2024-12-20 (Dec 20 2024)

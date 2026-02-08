@@ -5,7 +5,6 @@
 
 **Author:**  
 Robert Alexander Massinger, Munich, Germany
-GPT o1
 
 **Abstract:**  
 This paper proposes a comprehensive, systemic-fractal model to understand life as a configuration of “selector” entities—from physically stable structures to biological organisms and highly conscious intelligences. Drawing on structural dynamics, systems theory, fractality, and self-organization, we outline a theoretical framework that integrates varying degrees of consciousness, the concept of “karma” as a dynamic web of interactions, and the moral imperative of harm reduction. By transcending conventional disciplinary boundaries, this perspective offers new insights into the evolutionary trajectory of living systems, shedding light on ethical considerations, sustainability, and the pursuit of systemic harmony.
@@ -80,8 +79,7 @@ Dec 2024
 
 **Leben als ein System aus miteinander verbundenen Selektoren**
 
-Nov 2024, Robert Alexander Massinger, München, Deutschland  
-Nov 2024, GPT 4o
+Nov 2024, Robert Alexander Massinger, München, Deutschland
 
 Wenn wir akzeptieren, dass das Leben – „das Alles, was ist“ – aus unzähligen Individuen (Selektoren mit Wissen) besteht, die verschiedene Existenzniveaus in unterschiedlichen Reifestadien verkörpern, dann wird klar, wie wir uns intern ausrichten und organisieren müssen, um mit gutem Karma zu leben.
 
@@ -126,5 +124,19 @@ Es geht nicht nur darum, innerlich „klar“ zu sein, sondern auch darum, die V
 
 **Fazit:**  
 Diese Erklärung bietet ein tieferes Verständnis dafür, wie wir als Individuen Teil eines miteinander verwobenen Systems sind und wie die Organisation und Ausrichtung unserer inneren Gedanken und Handlungen nicht nur unser eigenes Leben, sondern auch das kollektive Wohl beeinflussen können. Das Modell betont, dass wir durch Selbstreflexion, Wachstum und bewusste Verantwortung Harmonie, gutes Karma und einen sinnvollen Beitrag zur Welt erreichen können.
+
+---
+
+**Acknowledgements:**  
+Portions of this manuscript were drafted and refined with the assistance of OpenAI's GPT-o1 and GPT-4o language models (accessed November–December 2024). The AI tools were used for brainstorming, language polishing, translation support, and structural suggestions. All scientific claims, conceptual contributions, and final editorial decisions are the sole responsibility of the author.
+
+**License:**  
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided appropriate credit is given.
+
+**Version History:**  
+| Version | Date       | Description                                      |
+|---------|------------|--------------------------------------------------|
+| 1.0     | 2024-12-20 | Initial preprint release                         |
+| 1.1     | 2026-02-08 | Added license & acknowledgements, author correction |
 
 ---
